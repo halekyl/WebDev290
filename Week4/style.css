@@ -1,0 +1,19 @@
+#buttonHolder{
+    width: 150px;
+    height: 75px;
+    background-color: violet;
+}
+
+#innerButton{
+    position:relative;
+    height:25px;
+    top:25px;
+    margin-left:15%;
+    width:70%;
+}
+
+#output{
+    min-width:20px;
+    min-height:20px;
+    background-color:lightblue;
+}
