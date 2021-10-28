@@ -1,0 +1,17 @@
+table{
+    border-style:solid;
+}
+th, td{
+    border-style:solid;
+}
+.outer-content{
+    padding: 20px;
+    background-color: pink;
+    width: 75%
+}
+.inner-content{
+  text-align: center;
+  width: 75%;
+  margin: auto;
+  background-color: aqua;
+}
